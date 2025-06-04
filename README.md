@@ -88,10 +88,9 @@ All queries are accompanied by analysis, row count, and what the query reveals. 
 
 ## 👤 Author
 
-*[Oluwafolasayo Deborah Adeola]*  
-📧 Email: [dhebbyfolasayomi97@gmail.com]  
-🔗 LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/oluwasayo-adeola))  
-
-
+*Oluwafolasayomi Deborah Adeola*  
+ðŸ“§ Email: dhebbyfolasayomi97@gmail.com  
+ðŸ”— LinkedIn: [oluwasayo-adeola](https://www.linkedin.com/in/oluwasayo-adeola-a035472a2)  
+ðŸ™ GitHub: [Dhebbyfolami](https://github.com/Dhebbyfolami)
 ---
 
