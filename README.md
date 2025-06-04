@@ -90,8 +90,8 @@ All queries are accompanied by analysis, row count, and what the query reveals. 
 
 *[Oluwafolasayo Deborah Adeola]*  
 📧 Email: [dhebbyfolasayomi97@gmail.com]  
-🔗 LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/oluwasayo-adeola-a035472a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
-🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+🔗 LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/oluwasayo-adeola))  
+
 
 ---
 
