@@ -88,7 +88,7 @@ All queries are accompanied by analysis, row count, and what the query reveals. 
 
 ## 👤 Author
 
-*[Your Name]*  
+*[Oluwafolasayo Deborah Adeola]*  
 📧 Email: [dhebbhyfolasayomi97@gmail.com]  
 🔗 LinkedIn: [oluwasayo-adeola](https://www.linkedin.com/in/oluwasayo-adeola-a035472a2)  
 ™ GitHub: [Dhebbyfolami](https://github.com/Dhebbyfolami)
